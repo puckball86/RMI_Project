@@ -24,3 +24,4 @@ To launch this application you will need the Web Application Archive (War) file 
 
 UML Diagram
 -------------
+![UML Diagram](https://github.com/puckball86/RMI_Project/blob/master/RMI_UML.png)
